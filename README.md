@@ -14,6 +14,6 @@ This study investigates how different treat flavors affect the cognitive perform
 - **Key Techniques:** Latin Square Design
 - **Date:** Fall 2023
 - **Collaborator:** Richard Diazdeleon
-- **GitHub Repository:** [Link](Final Project - Gabriel_Fanucchi_Richard_Diazdeleon.pdf)
+- **GitHub Repository:** ([Final Project - Gabriel_Fanucchi_Richard_Diazdeleon.pdf](https://github.com/gfanuch/Gabriel_Portfolio/blob/main/Final%20Project%20-%20Gabriel_Fanucchi_Richard_Diazdeleon.pdf))
 
 Thank you for visiting my portfolio. Feel free to reach out if you have any questions or would like to collaborate on a project!
