@@ -8,7 +8,7 @@ A portfolio showing my projects in statistics and data science.
 **Description:** 
 This study investigates how different treat flavors affect the cognitive performance of a senior domestic male tuxedo cat engaging in feeding puzzles. The time required for the cat to consume treats of seafood, chicken, dairy, and tuna flavors while completing puzzles was measured. Using a 4 x 4 replicated Latin Square design, we analyzed the time taken to discern if flavor preferences influenced the cat's puzzle-solving efficiency. Pre-planned contrasts were also explored to address specific questions regarding treatment means. The findings indicate no significant impact of treat flavor on the time to solve puzzles. However, the level of puzzle difficulty was a notable factor affecting performance. These results offer valuable considerations for future studies on feline behavior and puzzle interaction.
 
-![Tuxedo Cat](C:\Users\fanuc\Downloads\gaucho.png)
+![Tuxedo Cat](gaucho.png)
 
 - **Technologies Used:** SAS, R
 - **Key Techniques:** Latin Square Design
