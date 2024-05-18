@@ -1,5 +1,5 @@
-# Gabriel Portfolio
-A portfolio showing my projects in statistics and data science.
+# Portfolio
+Hi, my name is Gabriel. I am an Applied Statistics M.S. student at California State University, Long Beach (CSULB). I'm passionate about using statistics and machine learning to extract valuable insights from data. I graduated from UCLA with a B.S. in Applied Mathematics with a minor in Chinese.
 
 ## Projects
 
@@ -13,7 +13,7 @@ This study investigates how different treat flavors affect the cognitive perform
 - **Technologies Used:** SAS, R
 - **Key Techniques:** Latin Square Design
 - **Date:** Fall 2023
-- **Collaborator:** Richard Diazdeleon
-- **GitHub Repository:** ([Final Project - Gabriel_Fanucchi_Richard_Diazdeleon.pdf](https://github.com/gfanuch/Gabriel_Portfolio/blob/main/Final%20Project%20-%20Gabriel_Fanucchi_Richard_Diazdeleon.pdf))
+- **Collaborator:** Richard DiazDeLeon
+- ([View Report](https://github.com/gfanuch/Gabriel_Portfolio/blob/main/Final%20Project%20-%20Gabriel_Fanucchi_Richard_Diazdeleon.pdf))
 
-Thank you for visiting my portfolio. Feel free to reach out if you have any questions or would like to collaborate on a project!
+Thank you for visiting my portfolio! Feel free to reach out if you have any questions or would like to collaborate on a project!
