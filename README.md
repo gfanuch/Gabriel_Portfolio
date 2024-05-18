@@ -1,4 +1,4 @@
-# Portfolio
+# Gabriel's Portfolio
 Hi, my name is Gabriel. I am an Applied Statistics M.S. student at California State University, Long Beach (CSULB). I'm passionate about using statistics and machine learning to extract valuable insights from data. I graduated from UCLA with a B.S. in Applied Mathematics with a minor in Chinese.
 
 ## Projects
